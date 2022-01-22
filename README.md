@@ -1,4 +1,4 @@
-# Content - Based - Image - Retrieval _ 2018 - 147, 158
+# Content Based Image Retrieval - 2018_147, 158
 
 ## Judul Project
 Fast Image Retrieval Based on Deep Learning and Hierarchically Nested Structure Applied to Plant Biology
